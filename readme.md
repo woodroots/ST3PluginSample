@@ -9,4 +9,5 @@ Sublime Text3用プラグインの見本です。
    
 の3つの機能があります。  
   
-解説ページ：Sublime Text3を使いはじめたのでプラグインも作ってみた
+解説ページ：Sublime Text3を使いはじめたのでプラグインも作ってみた  
+http://wood-roots.com/?p=1025
