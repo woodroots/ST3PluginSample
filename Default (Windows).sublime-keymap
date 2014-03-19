@@ -1,0 +1,11 @@
+[
+    {
+        "keys": ["ctrl+f1"], "command": "txt_wrap"
+    },
+    {
+        "keys": ["ctrl+f2"], "command": "txt_insert"
+    },
+    {
+        "keys": ["ctrl+f3"], "command": "image_setting"
+    }
+]

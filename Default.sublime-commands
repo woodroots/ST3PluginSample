@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "newPlugin: strongタグで囲う",
+        "command": "txt_wrap"
+    },
+    {
+        "caption": "newPlugin: 改行を挿入",
+        "command": "txt_insert"
+    },
+    {
+        "caption": "newPlugin: 画像挿入",
+        "command": "image_setting"
+    }
+]
